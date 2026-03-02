@@ -1,0 +1,10 @@
+{
+  "name": "plugin-changelog",
+  "version": "1.0.0",
+  "description": "Auto-generate WordPress.org changelog from git log. Ready to paste into readme.txt.",
+  "type": "module",
+  "bin": { "plugin-changelog": "./index.js" },
+  "keywords": ["wordpress", "wporg", "plugin", "changelog", "cli", "git"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
