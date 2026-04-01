@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # plugin-changelog
 
 Stop writing changelog entries by hand.
